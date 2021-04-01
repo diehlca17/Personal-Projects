@@ -1,0 +1,10 @@
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\bin\Debug\diehlAssignment3.exe.config
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\bin\Debug\diehlAssignment3.exe
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\bin\Debug\diehlAssignment3.pdb
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.csprojAssemblyReference.cache
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.Form1.resources
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.Properties.Resources.resources
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.csproj.GenerateResource.cache
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.exe
+C:\Users\DIEHLCA17\Desktop\3diehlCastle\diehlAssignment3\diehlAssignment3\obj\Debug\diehlAssignment3.pdb
