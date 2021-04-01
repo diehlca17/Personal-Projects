@@ -1,0 +1,1 @@
+This is a weather data generator that is connected to the openweathermaps API.  The program gets JSON data from the API and generates weather based on user inputs.  The live data is constantly being updated.   

@@ -1,0 +1,24 @@
+.weather-container{
+    background-color: rgb(157, 173, 202);
+    text-align: center;
+    font-family:fantasy;
+}
+
+.weather{
+    font-size: larger;
+    margin: 0;
+}
+
+.temp{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.data{
+    font-size: 30px;
+    margin: 0;
+    font-family:fantasy;
+    text-align: center;
+    text-shadow: black;
+}

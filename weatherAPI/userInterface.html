@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>API</title>
+
+        <!-- Links javascript file -->
+        <script
+            src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous">
+        </script>
+        <script src = "script.js"></script>
+        <link rel = "stylesheet" href = "style.css">
+
+
+    </head>
+
+    <body>
+        <!-- UI Display Div -->
+        <div class = "weather-container">
+            <div>
+                <h1>
+                <script>
+                    document.write(defaultCity);
+                </script>
+                </h1>
+
+                <!-- Provides City Name Header -->
+                <h2 id = "cityName"></h2>
+                
+            </div>
+    
+            <!-- Data Displayed by class and id -->
+            <img class = "icon"> 
+            <h2 id="weatherID"></h2>
+            <p id="tempID"></p>
+            </div>
+        </div>
+
+        <br>
+        <hr>
+        <br>
+
+        <!-- Dropdown List of Cities -->
+        <div class = "data">
+        <label for="city">Choose a City:</label>
+        <select name="city" id="city" onchange="changeCity();setWeather()">
+        <optgroup label="Cities">
+            <option value="New York">New York City</option>
+            <option value="Raleigh">Raleigh</option>
+            <option value="Tampa">Tampa</option>
+            <option value="Charleston">Charleston</option>
+            <option value="Baltimore">Baltimore</option>
+            <option value="Washington">Washington</option>
+            <option value="Los Angeles">Los Angeles</option>
+            <option value="Phoenix">Phoenix</option>
+            <option value="Denver">Denver</option>
+            <option value="Hartford">Hartford</option>
+            <option value="Harrisburg">Harrisburg</option>
+            <option value="Columbia">Columbia</option>
+            <option value="Augusta">Augusta</option>
+            <option value="Salt Lake City">Salt Lake City</option>
+            <option value="Olympia">Olympia</option>
+        </optgroup>
+        </select>
+    </div>
+            
+    </body>
+</html>
