@@ -159,7 +159,7 @@ export const TransactionsProvider = ({ children }) => {
             setCurrentAccount(accounts[0]);
 
             // Refreshes Page
-            window.location.reload(true);
+            // window.location.reload(true);
         } catch (error) {
             console.log(error);
 
