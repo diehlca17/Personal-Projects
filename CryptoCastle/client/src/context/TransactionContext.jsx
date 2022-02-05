@@ -137,9 +137,6 @@ export const TransactionsProvider = ({ children }) => {
             console.log(`Success - ${transactionHash.hash}`);
             alert("Success! Your transaction has been posted.");
 
-            //Refreshes Page
-            window.location.reload(true);
-
             const transactionCount = await transactionContract.getTransactionCount();
 
             setTransactionCount(transactionCount.toNumber());
@@ -158,8 +155,6 @@ export const TransactionsProvider = ({ children }) => {
             const accounts = await ethereum.request({ method: "eth_requestAccounts" });
             setCurrentAccount(accounts[0]);
 
-            // Refreshes Page
-            // window.location.reload(true);
         } catch (error) {
             console.log(error);
 
